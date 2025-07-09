@@ -80,6 +80,16 @@ This repository contains a complete architectural design and implementation plan
 - Success metrics and KPIs
 - Budget estimation (₹19 crores total project cost)
 
+### 11. [Scalability Analysis](./scalability-capacity-analysis.md)
+- Designed system capacity
+- Concurrent user capacity
+- Geographic distribution capacity
+- Infrastructure scaling capacity
+- Performance Benchmarks
+- User type capacity breakdown
+- Scalability Growth Plan
+- Cost Implications of Scale
+
 ## 🏗️ Architecture Highlights
 
 ### Multi-Tenant Architecture
